@@ -1,0 +1,27 @@
+{
+    "config": [
+        {
+            "section": "data-paths",
+            "entries": [
+                {
+                    "key": "animations-folder",
+                    "value": "../resources/animations/"
+                },
+                {
+                    "key": "map-data-folder",
+                    "value": "../resources/map-data/"
+                }
+            ]
+        },
+
+        {
+            "section": "debug",
+            "entries": [
+                {
+                    "key": "show-colliders",
+                    "value": "True"
+                }
+            ]
+        }
+    ]
+}

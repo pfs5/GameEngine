@@ -1,0 +1,56 @@
+﻿  Animation.cpp
+  AnimationController.cpp
+d:\code\games\gameengine\gameengine\animation\animationcontroller.cpp(19): warning C4018: '<=': signed/unsigned mismatch
+  ConfigManager.cpp
+  Application.cpp
+  Display.cpp
+  DebugConsole.cpp
+  DebugConsoleLogEntry.cpp
+  GameObject.cpp
+  GameStateManager.cpp
+  ITransformable.cpp
+  Map.cpp
+  ParticleSystem.cpp
+  Scene.cpp
+  Spline.cpp
+d:\code\games\gameengine\gameengine\game_objects\spline.cpp(26): warning C4018: '<': signed/unsigned mismatch
+d:\code\games\gameengine\gameengine\game_objects\spline.cpp(43): warning C4018: '<': signed/unsigned mismatch
+d:\code\games\gameengine\gameengine\game_objects\spline.cpp(139): warning C4018: '<': signed/unsigned mismatch
+d:\code\games\gameengine\gameengine\game_objects\spline.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  Input.cpp
+  WeakPtr.cpp
+  Collider.cpp
+  PhysicsEngine.cpp
+d:\code\games\gameengine\gameengine\physics\physicsengine.cpp(288): warning C4018: '<': signed/unsigned mismatch
+d:\code\games\gameengine\gameengine\physics\physicsengine.cpp(294): warning C4018: '<': signed/unsigned mismatch
+  PhysicsLayers.cpp
+d:\code\games\gameengine\gameengine\physics\physicslayers.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  RigidBody.cpp
+  Generating Code...
+  Compiling...
+  Camera.cpp
+  Rendering.cpp
+  ResourceManager.cpp
+  HUD.cpp
+d:\code\games\gameengine\gameengine\ui\hud.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  HUDButton.cpp
+  UILine.cpp
+  UISlider.cpp
+  Functions.cpp
+  Generating Code...
+winmm.lib(WINMM.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+winmm.lib(WINMM.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+gdi32.lib(GDI32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+gdi32.lib(GDI32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+openal32.lib(OpenAL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+openal32.lib(OpenAL32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+vorbis.lib(vorbisenc.obj) : warning LNK4006: vorbis_encode_init already defined in vorbisenc.lib(vorbisenc.obj); second definition ignored
+vorbis.lib(vorbisenc.obj) : warning LNK4006: vorbis_encode_setup_managed already defined in vorbisenc.lib(vorbisenc.obj); second definition ignored
+vorbis.lib(vorbisenc.obj) : warning LNK4006: vorbis_encode_setup_vbr already defined in vorbisenc.lib(vorbisenc.obj); second definition ignored
+vorbis.lib(vorbisenc.obj) : warning LNK4006: vorbis_encode_init_vbr already defined in vorbisenc.lib(vorbisenc.obj); second definition ignored
+vorbis.lib(vorbisenc.obj) : warning LNK4006: vorbis_encode_setup_init already defined in vorbisenc.lib(vorbisenc.obj); second definition ignored
+vorbis.lib(vorbisenc.obj) : warning LNK4006: vorbis_encode_ctl already defined in vorbisenc.lib(vorbisenc.obj); second definition ignored
+vorbis.lib(vorbisenc.obj) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+ws2_32.lib(WS2_32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+ws2_32.lib(WS2_32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  GameEngine.vcxproj -> D:\Code\EngineUsageTest\Builds\Debug\GameEngine.lib
